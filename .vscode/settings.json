@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/d2fe297f-751d-449d-b706-ded36fc58436/resourceGroups/junling-mango-app/providers/Microsoft.Web/sites/junling-mango-app",
+  "appService.deploySubpath": "."
+}
